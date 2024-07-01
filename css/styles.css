@@ -1,0 +1,40 @@
+.card{
+    background-image: url('https://i.pinimg.com/564x/66/b0/33/66b033c21d7d34776a5df6af2b40d807.jpg');
+    background-size: cover;
+    height: 400px;
+    width: 600px;
+    justify-content: center;
+    /* margin-left: 400px; */
+    text-align: center;
+    
+}
+.card-title{
+    color: rgb(32, 255, 248);
+    font-weight: 900;
+    text-align: center;
+}
+.btn-outline-custom{
+    border: 3px solid rgb(246, 35, 200);
+    color: rgb(246, 35, 200);
+    font-weight: 900;
+    width: 200px;
+    margin-left: 200px;
+    
+    
+}
+.btn-outline-custom:hover{
+    background-color:rgb(246, 35, 200) ;
+    color: white;
+}
+label , span{
+    color: rgb(32, 255, 248);
+    font-weight: 900;
+    
+}
+input{
+    border: 4px solid purple;
+    border-radius: 10px;
+    width: 300px;
+    height: 40px;
+    margin-left: 150px;
+}
